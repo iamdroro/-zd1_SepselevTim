@@ -1,0 +1,7 @@
+C:\Users\305-4\Desktop\tim\zad1practice_Sepselev-main\Cat1\bin\Debug\Задание 1.exe.config
+C:\Users\305-4\Desktop\tim\zad1practice_Sepselev-main\Cat1\bin\Debug\Задание 1.exe
+C:\Users\305-4\Desktop\tim\zad1practice_Sepselev-main\Cat1\bin\Debug\Задание 1.pdb
+C:\Users\305-4\Desktop\tim\zad1practice_Sepselev-main\Cat1\obj\Debug\Cat1.csproj.AssemblyReference.cache
+C:\Users\305-4\Desktop\tim\zad1practice_Sepselev-main\Cat1\obj\Debug\Cat1.csproj.CoreCompileInputs.cache
+C:\Users\305-4\Desktop\tim\zad1practice_Sepselev-main\Cat1\obj\Debug\Задание 1.exe
+C:\Users\305-4\Desktop\tim\zad1practice_Sepselev-main\Cat1\obj\Debug\Задание 1.pdb
